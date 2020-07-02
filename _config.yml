@@ -1,7 +1,7 @@
 # Setup
 title:               Songheony
 tagline:             '취미용 블로그'
-description:         '일본에서 석사를 진행하고 있는 학생이 이것저것 흔적을 남기기 위한 블로그입니다.'
+description:         '일본에서 석사과정을 진행하고 있는 학생이 이것저것 흔적을 남기기 위한 블로그입니다.'
 url:                 https://songheony.github.io
 baseurl:             ''
 paginate:            5
