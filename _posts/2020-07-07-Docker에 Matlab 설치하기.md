@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Docker에 Matlab 설치하기
+comments: true
 ---
 
 ### Docker에 Matlab을 설치하는 이유?
