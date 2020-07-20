@@ -50,7 +50,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-M
 이를 이용하면 다음과 같이 사용하는것이 가능합니다.
 
 * 일반 수식 - \$\$수식\$\$
-* inline 수식 -  $수식$
+* inline 수식 -  \$수식\$
 
 ### MathJax v3
 
