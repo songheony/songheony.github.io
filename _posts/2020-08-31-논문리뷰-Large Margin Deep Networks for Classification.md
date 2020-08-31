@@ -6,7 +6,7 @@ comments: true
 
 ### 논문 소개
 
-Google Research팀에서 NIPS 2018에 공개한 논문입니다.  
+Google Research팀에서 NIPS 2018에 공개한 [논문](https://papers.nips.cc/paper/7364-large-margin-deep-networks-for-classification.pdf)입니다.  
 논문을 한줄 요약하자면  
 "딥러닝 모델중 임의의 레이어의 출력 공간에서도 마진을 최대화하고 싶다."  
 입니다.
