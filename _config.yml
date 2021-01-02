@@ -6,7 +6,6 @@ url:                 https://songheony.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-enableEmoji:         true
 
 # About/contact
 author:
@@ -17,6 +16,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jemoji
 
 # Custom vars
 version:             1.1.0
