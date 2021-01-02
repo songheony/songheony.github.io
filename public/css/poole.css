@@ -236,6 +236,11 @@ img {
 
 /* Tables */
 table {
+  display: block;
+  overflow-x: auto;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  overflow-x: auto;
   margin-bottom: 1rem;
   width: 100%;
   border: 1px solid #e5e5e5;
