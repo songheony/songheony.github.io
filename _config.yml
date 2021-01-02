@@ -6,6 +6,7 @@ url:                 https://songheony.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+enableEmoji:         true
 
 # About/contact
 author:
