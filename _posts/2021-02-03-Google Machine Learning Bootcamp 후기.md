@@ -30,7 +30,7 @@ Google Machine Learning Bootcamp는 참가자들이 서로 힘을 합쳐 딥러�
 
 | ![LinkedIn](https://i.imgur.com/MuaTqxk.png) | 
 |:--:| 
-| 생애 처음으로 LinkedIn이라는 것을 사용해봤습니다 [https://www.linkedin.com/in/heon-song/](https://www.linkedin.com/in/heon-song/). |
+| 생애 처음으로 LinkedIn이라는 것을 사용해봤습니다 ([https://www.linkedin.com/in/heon-song/](https://www.linkedin.com/in/heon-song/)). |
 
 ## 주관적인 프로그램에 대한 소개
 
